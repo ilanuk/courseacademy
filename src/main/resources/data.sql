@@ -1,0 +1,3 @@
+INSERT IGNORE INTO roles (role_name) VALUES( "ROLE_ADMIN");
+INSERT IGNORE INTO roles (role_name) VALUES( "ROLE_PM");
+INSERT IGNORE INTO roles (role_name) VALUES( "ROLE_USER");
